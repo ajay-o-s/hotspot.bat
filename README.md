@@ -6,5 +6,5 @@ curl -o off.bat https://raw.githubusercontent.com/ajay-o-s/hotspot.bat/master/of
 ```
 on
 ```
-curl -o on.bat https://raw.githubusercontent.com/ajay-o-s/hotspot.bat/master/on.bat && off.bat && del on.bat
+curl -o on.bat https://raw.githubusercontent.com/ajay-o-s/hotspot.bat/master/on.bat && on.bat && del on.bat
 ```
